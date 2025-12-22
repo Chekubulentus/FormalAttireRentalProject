@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "FormalAttireRentalBackend.Controllers.AdminController.EmployeeController",
+    "Method": "GetAllEmployeesAsync",
+    "RelativePath": "api/Employee/GetAllEmployees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
