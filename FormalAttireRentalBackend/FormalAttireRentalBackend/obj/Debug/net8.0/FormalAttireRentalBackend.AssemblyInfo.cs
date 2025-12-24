@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormalAttireRentalBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+249e17319bf1e084fafa349b21ba3d851b156ab1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1470c3ebbced166d00e56fa6b14e4e1d2b72eba")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormalAttireRentalBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormalAttireRentalBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

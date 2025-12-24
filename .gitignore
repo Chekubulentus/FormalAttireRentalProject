@@ -1,0 +1,70 @@
+##################################
+# Visual Studio
+##################################
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+##################################
+# Build results
+##################################
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+ARM/
+ARM64/
+
+##################################
+# .NET / NuGet
+##################################
+*.nupkg
+*.snupkg
+*.nuget.cache
+project.assets.json
+project.packagespec.json
+packages/
+.nuget/
+
+##################################
+# ASP.NET Core
+##################################
+appsettings.Development.json
+appsettings.Local.json
+
+##################################
+# Logs
+##################################
+*.log
+
+##################################
+# OS generated files
+##################################
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+##################################
+# macOS
+##################################
+.DS_Store
+
+##################################
+# Node / Frontend (if you add one later)
+##################################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+##################################
+# Environment variables
+##################################
+.env
+.env.*
